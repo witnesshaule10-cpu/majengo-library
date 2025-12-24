@@ -1,0 +1,24 @@
+<html>
+<head>
+<title> framed page</title>
+</head>
+<body BGCOLOR="00FFFF"</BODY>
+<frameset cols="60,*%">
+<frame src="middle bar.html">
+   <h2>About us</h2>
+    <p>Majengo library is a public library which first introduced in  June 4 2018  by DR.  Norbert Haule  with the help of   the government for the aim of serving whole society such as students researchers and whole society and providing services to those people regardless their differences. It located in Ruvuma region at Songea  town.  also we provide services 24/7 hours.  This library provides service for students, researchers as well as whole society.  </p>
+    <h3>Our vision</h3>
+    <p>The vision of Majengo library is to be a public lending in provision, dissemination and preservation of information in the society and county in general.</p>
+    <h3> misssion</h3>
+    <p> Majengo library impower society in their activities such as research, learning, teaching and  to develop life life long learning by providing them with quality information.</P>
+    <h4>Core function</h4>
+    <p> Quality service  we provide the library service which is accurate, correct, and uniformity which help the society in performing their activities such as learning, teaching research as well as in developing life long learning.
+
+Materials available in our library
+
+Print materials including books, journals, thesis, as well as maps also we  have electronic resources. We most welcome our patrons because they satisfied and enjoy our services.</p>
+<img src="rc.jpg" alt ="<An example image">
+<a href="htpps:www.majengolibrary.com">visit our beautyful service></a><i ---other html element go here--
+</frameset>
+</body>
+</html>
